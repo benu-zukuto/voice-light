@@ -3,7 +3,7 @@ An Offline Voice & Web Controlled Smart Classroom
 
 Overview & Purpose
 
-	The Voice Light project is an advanced, dual-mode smart classroom automation system powered by an ESP32-S3 (N8R8) microcontroller. The primary purpose of this system is to provide reliable, local, and privacy-focused environmental control in a classroom setting without relying on external cloud servers, internet connectivity, or expensive voice assistant hardware.
+The Voice Light project is an advanced, dual-mode smart classroom automation system powered by an ESP32-S3 (N8R8) microcontroller. The primary purpose of this system is to provide reliable, local, and privacy-focused environmental control in a classroom setting without relying on external cloud servers, internet connectivity, or expensive voice assistant hardware.
 
 Usefulness
 
